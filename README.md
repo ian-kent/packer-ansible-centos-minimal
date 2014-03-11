@@ -1,7 +1,7 @@
 CentOS 6.5 minimal with Ansible
 ===============================
 
-Packer build for CentOS 6.5 minimal with Ansible install.
+Packer build for VirtualBox CentOS 6.5 minimal with Ansible install.
 
 Current box file is available on DropBox:
 
